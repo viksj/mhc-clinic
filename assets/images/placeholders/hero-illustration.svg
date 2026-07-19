@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 820" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated clinic consultation room placeholder</title><desc id="desc">A warm botanical illustration of a calm consultation room with a table, chair, window and plant.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#d9e5d7"/><stop offset="1" stop-color="#a6c1ac"/></linearGradient><linearGradient id="floor" x1="0" x2="1"><stop stop-color="#9db5a5"/><stop offset="1" stop-color="#6e9180"/></linearGradient></defs>
+  <rect width="760" height="820" fill="url(#bg)"/><path d="M0 650h760v170H0z" fill="url(#floor)"/><path d="M0 520c155-45 370-10 760-90v220H0z" fill="#b8cdb9" opacity=".72"/>
+  <rect x="82" y="110" width="250" height="300" rx="8" fill="#eef2e8" opacity=".8"/><path d="M207 110v300M82 260h250" stroke="#8cab99" stroke-width="6"/><path d="M90 404h235" stroke="#537867" stroke-width="10" opacity=".5"/>
+  <path d="M451 540c-12-72 11-156 64-226M515 421c-49-17-77-68-67-113M532 377c59-35 108-76 129-129M559 330c-15-53 1-112 41-151" fill="none" stroke="#356858" stroke-width="10" stroke-linecap="round"/><path d="M466 356c-57 4-79-17-89-51 47-7 76 11 89 51m75-22c23-47 56-63 92-56-12 38-40 59-92 56m-26 93c-37-4-59-28-63-64 38-1 59 20 63 64m72-95c11-49 43-72 78-74 1 38-24 65-78 74" fill="#4d8368"/>
+  <path d="M390 565h240l-30 78H420z" fill="#6f8d7d"/><path d="M420 565c44-34 138-34 181 0" fill="#d0b587"/><path d="M466 642v77m89-77v77" stroke="#315c50" stroke-width="11"/><path d="M424 719h46m44 0h46" stroke="#315c50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M114 648h185v90H114z" fill="#e7d9c0"/><path d="M133 648v-69h148v69" fill="#f1e8d6"/><path d="M137 582c30-34 112-35 143 0" fill="#c39258"/><path d="M154 681h105" stroke="#bd9b6c" stroke-width="6" opacity=".6"/>
+  <circle cx="650" cy="116" r="62" fill="#e9d5a6" opacity=".8"/><path d="M612 117h76M650 79v76" stroke="#c99d5a" stroke-width="5" opacity=".7"/>
+  <text x="50" y="775" fill="#173f3a" font-family="Georgia,serif" font-size="22" letter-spacing="2">MHC / PLACEHOLDER</text>
+</svg>

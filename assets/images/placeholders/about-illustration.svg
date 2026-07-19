@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 820" role="img" aria-labelledby="title desc">
+  <title id="title">Welcoming clinic interior placeholder</title><desc id="desc">A minimal illustration of a reception space with an arched window and plants.</desc>
+  <defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee7da"/><stop offset="1" stop-color="#cadbcf"/></linearGradient></defs>
+  <rect width="700" height="820" fill="url(#a)"/><rect y="626" width="700" height="194" fill="#b7c8b6"/><path d="M0 619c155-27 407-18 700-57v78H0z" fill="#d2dccc"/>
+  <path d="M148 533V245c0-90 71-163 158-163s158 73 158 163v288" fill="#173f3a"/><path d="M179 530V255c0-73 57-133 127-133s127 60 127 133v275" fill="#dfe9dd"/><path d="M306 124v406M179 282h254" stroke="#a3c0aa" stroke-width="7"/>
+  <path d="M76 638c3-101 26-159 83-212M128 542c-45-9-69-41-70-77 36-2 64 21 70 77m-12 12c45-5 74-31 80-72-37-10-69 11-80 72" fill="none" stroke="#4e8067" stroke-width="9" stroke-linecap="round"/><path d="M43 618h87l-11 64H53z" fill="#c39258"/>
+  <path d="M485 548h151v93H485z" fill="#e4d4b4"/><path d="M485 548c18-48 135-48 151 0" fill="#c99d5a"/><path d="M514 641v87m94-87v87" stroke="#315c50" stroke-width="10"/><path d="M493 728h44m50 0h44" stroke="#315c50" stroke-width="8" stroke-linecap="round"/>
+  <text x="42" y="780" fill="#173f3a" font-family="Georgia,serif" font-size="21" letter-spacing="2">A WELCOMING SPACE</text>
+</svg>
